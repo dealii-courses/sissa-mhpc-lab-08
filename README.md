@@ -1,4 +1,4 @@
-#  Lab 07 - Adaptive FEM and shared memory parallelization
+#  Lab 08 - AFEM and distibuted memory parallelisation
 ## Theory and Practice of Finite Elements
 
 **Luca Heltai** <luca.heltai@sissa.it>
@@ -31,7 +31,7 @@ TEST_F(PoissonTester, Exercise3) {
 By the end of this laboratory, you will have modified your Poisson code to run
 in parallel using shared memory parallelization on multiple threads, and you
 will have some knowledge of Task based parallelization
-## Lab-07
+## Lab-08
 
 1. Repeat the basic MPI commands from the file mpihello/main.cc and understand
 how things work
