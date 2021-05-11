@@ -1,7 +1,12 @@
 var class_poisson =
 [
+    [ "CopyData", "class_poisson.html#a574daa4d8987949b061954ae59d0f37c", null ],
+    [ "ScratchData", "class_poisson.html#a968a4681035e00ca80cc7052113b25b2", null ],
     [ "Poisson", "class_poisson.html#a01a860898305c6e64949d0038f5edf57", null ],
     [ "assemble_system", "class_poisson.html#ae4a07f5b2eb50e351b9339b33fa116c1", null ],
+    [ "assemble_system_on_range", "class_poisson.html#a32f53ecf361b14f44c8e62783b58b714", null ],
+    [ "assemble_system_one_cell", "class_poisson.html#a27117b1eba4160b0e165b21f7aea133c", null ],
+    [ "copy_one_cell", "class_poisson.html#ab081ff4a1f1e8668cc663f2d6021df8e", null ],
     [ "estimate", "class_poisson.html#a0b9bd1fc4c3bf980da3ced68e2de77a0", null ],
     [ "initialize", "class_poisson.html#a5b9cf02d2e0977a25c585fc49611d993", null ],
     [ "make_grid", "class_poisson.html#ae7b7b8fb458505ecaf7efa3a29ac62c9", null ],
@@ -42,6 +47,7 @@ var class_poisson =
     [ "neumann_boundary_condition", "class_poisson.html#a9e1c832ca017fe0ffc3dd635cf005f18", null ],
     [ "neumann_boundary_conditions_expression", "class_poisson.html#a32a0249154b3bae4d4816fce899c2f26", null ],
     [ "neumann_ids", "class_poisson.html#a02fc9f547ff6ee6936781734a44825cc", null ],
+    [ "number_of_threads", "class_poisson.html#a5f4d6f0a1e6dac9dd2aadfebe7e6691f", null ],
     [ "output_filename", "class_poisson.html#aa8033200bea56c605a39162cc503d33b", null ],
     [ "pre_refinement", "class_poisson.html#abcd7e8187f0d4f80bb5950ddf64d39f4", null ],
     [ "pre_refinement_expression", "class_poisson.html#a4c8c51fd9dfdf36f202fd10cf5f88d4e", null ],
@@ -50,6 +56,7 @@ var class_poisson =
     [ "sparsity_pattern", "class_poisson.html#aa2b1fb2cf933cb61c5e24be4ee175d6e", null ],
     [ "system_matrix", "class_poisson.html#a45f101ebd52a7c9a180e82048c07b71a", null ],
     [ "system_rhs", "class_poisson.html#a5143e26aa7803c508384ae3d5cbd997c", null ],
+    [ "timer", "class_poisson.html#ad36f9628ba6b9ce913eab69f65864a50", null ],
     [ "triangulation", "class_poisson.html#ae2a87e8c77e75e6def25a137f0364131", null ],
     [ "use_direct_solver", "class_poisson.html#a837555d04369f9e0819e17852d18ffa2", null ]
 ];
